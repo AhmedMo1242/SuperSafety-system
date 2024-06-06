@@ -1,5 +1,0 @@
-train: C:/Users/HP/OneDrive/Desktop/papers/git/yolov8/train/yolov8/data/images
-val: C:/Users/HP/OneDrive/Desktop/papers/git/yolov8/train/yolov8/data/images
-
-nc: 4
-names: ['gloves', 'googles', 'helmets', 'vests']
