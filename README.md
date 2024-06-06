@@ -1,6 +1,6 @@
 # Integrated System for Industrial Safety Monitoring
 
-This repository contains the implementation and research work conducted as part of two college subjects: Seminar and Problem-Based Learning (PBL).
+This repository contains the implementation and research work conducted as part of two college subjects: Seminar and Project-Based Learning (PBL).
 
 ## Seminar
 In the Seminar subject, we conducted research focused on industrial safety monitoring through the integration of artificial intelligence (AI) with a mobile application. The seminar folder contains:
@@ -16,7 +16,7 @@ In the PBL subject, we implemented the system proposed during the Seminar phase.
 - **AI Code:** Implementation of the AI component using the YOLOv8 model and other algorithms for real-time object detection and monitoring.
 
 ## Additional Resources
-For additional resources, including datasets and supplementary materials, please refer to the Google Drive folder linked here: [Google Drive Link](https://drive.google.com/drive/u/1/folders/1Id-JC1iRU0KGaa61YiFGMcGX-Ujxjfzl)
+For additional resources, including Demo and supplementary materials, please refer to the Google Drive folder linked here: [Google Drive Link](https://drive.google.com/drive/u/1/folders/1Id-JC1iRU0KGaa61YiFGMcGX-Ujxjfzl)
 
 ## Conclusion
 This repository presents a comprehensive system integrating AI, mobile applications, and Firebase for industrial safety monitoring. It reflects our collaborative efforts during the Seminar and PBL subjects, with a clear roadmap for future enhancements and advancements.
